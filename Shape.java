@@ -1,7 +1,7 @@
 public class Shape {
     int x;
     int y;
-    String color = "green";  // Added color field
+    String color = "blue";  // Added color field
 
     public int getX() {
         return x;
